@@ -4,7 +4,7 @@ Updated professional profile including contact information and links to app repo
 
 # Deployed link:
 
- https://samanthasengsouvanh.github.io/updated-portfolio/
+https://samanthasengsouvanh.github.io/portfolio-two/
 
  # Screenshots
 
