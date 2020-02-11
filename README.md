@@ -1,2 +1,7 @@
 # portfolio-two
-updated portfolio with resume, app repo and deployed links, and linkedin
+
+Updated professional profile including contact information and links to app repos and deployed versions.
+
+# Deployed link:
+
+ https://samanthasengsouvanh.github.io/updated-portfolio/
