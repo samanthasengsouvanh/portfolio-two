@@ -1,12 +1,12 @@
-# portfolio-two
+# Updated Portfolio
 
 Updated professional profile including contact information and links to app repos and deployed versions.
 
-# Deployed link:
+## Deployed link:
 
 https://samanthasengsouvanh.github.io/portfolio-two/
 
- # Screenshots
+ ## Screenshots
 
  ![PORTFOLIO SCREENSHOT](./assets/images/portfolio-screenshot.png)
 
